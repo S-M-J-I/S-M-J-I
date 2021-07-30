@@ -6,4 +6,4 @@ My name is S M Jishanul Islam. I'm just your average CS student studying at <a h
 
 This is a very short intro, so I'm not going to write much.
 
-You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>. I haved projects in C/C++, Java, JavaScript, HTML, CSS till now. More to come!!
+You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>. I have projects in C/C++, Java, JavaScript, HTML, CSS till now. More to come!!
