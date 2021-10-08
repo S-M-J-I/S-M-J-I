@@ -23,3 +23,5 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
  - Node.js
  - Express.js
  - Bootstrap
+
+![](https://komarev.com/ghpvc/?username=S-M-J-I&label=PROFILE+VIEWS)
