@@ -31,4 +31,4 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-M-J-I&theme=radical&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-J-I&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-J-I&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
