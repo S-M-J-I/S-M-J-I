@@ -13,9 +13,9 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 50px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 50px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px"/>
- <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 50px"/></a>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px"/>
+ <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px"/></a>
+ <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 50px"/></a>
+ <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px"/></a>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width: 50px;"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width: 50px;"/>
