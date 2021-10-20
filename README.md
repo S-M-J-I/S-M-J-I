@@ -32,4 +32,4 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 <br>
 
 [![Jishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-M-J-I&theme=radical&hide=issues&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-J-I&layout=compact&theme=radical&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-J-I&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
