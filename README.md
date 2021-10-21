@@ -1,6 +1,6 @@
 # Hi There !!!!
 
-My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="">United International University</a> in Bangladesh.
+My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
 
 This is a very short intro, so I'm not going to write much.
 
