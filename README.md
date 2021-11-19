@@ -10,7 +10,6 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 - Back-end Development
 - Problem Solving
 - AI/ML (interested to work on it in the future)
-- Entrepreneurship
 
 
 ## Stuff I know
