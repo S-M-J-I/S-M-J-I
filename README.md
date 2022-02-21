@@ -4,7 +4,7 @@ This is a very short intro, so I'm not going to write much.
 
 My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
 
-You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>. I have projects in C/C++, Java, JavaScript, HTML, CSS till now. More to come!!
+You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>. I have projects in C/C++, Java, and Web apps till now. More to come!!
 
 ## My interests:
 - Back-end Development
