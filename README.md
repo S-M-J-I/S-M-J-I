@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/channel/UCBPx5197X-5F-UyZ2XUmzmg"><img src="ghub-cover-03.png" /></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCBPx5197X-5F-UyZ2XUmzmg"><img src="ghub-cover-03.png" /></a>
 
 # Hi There !!!!
 
@@ -14,8 +14,8 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 - AI/ML (interested to work on it in the future)
 
 ## Connect:
-<a href="https://www.linkedin.com/in/s-m-jishanul-islam-709b0b1a7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
-<a href="https://www.youtube.com/channel/UCBPx5197X-5F-UyZ2XUmzmg"><img src="pfp-01.png" style="width: 50px" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/s-m-jishanul-islam-709b0b1a7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCBPx5197X-5F-UyZ2XUmzmg"><img src="pfp-01.png" style="width: 50px" /></a>
 
 ## Stuff I know
 
