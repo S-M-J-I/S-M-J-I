@@ -11,6 +11,9 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 - Problem Solving
 - AI/ML (interested to work on it in the future)
 
+## Connect:
+<a href="https://www.linkedin.com/in/s-m-jishanul-islam-709b0b1a7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
+
 
 ## Stuff I know
 
