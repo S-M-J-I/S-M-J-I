@@ -1,5 +1,3 @@
-<a target="_blank" href="https://www.youtube.com/channel/UCBPx5197X-5F-UyZ2XUmzmg"><img src="ghub-cover-03.png" /></a>
-
 # Hi There !!!!
 
 This is a very short intro, so I'm not going to write much.
@@ -25,7 +23,14 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 
 
 <br>
+
+## Checkout some of my profiles:
+- <a target="_blank" href="https://www.hackerrank.com/sislam201024">Hackerrank</a>
+- <a target="_blank" href="https://codeforces.com/profile/jishanlion">Codeforces</a>
+
 <br>
+
+## Github Stats:
 
 [![Jishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-M-J-I&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-J-I&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
