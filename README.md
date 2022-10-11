@@ -22,7 +22,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 <hr>
 
 #### Back-End
-<a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px"/></a> <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 50px"/></a> <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px"/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 50px;"/>
+<a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px"/></a> <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 50px"/></a> <a href="https://github.com/S-M-J-I?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px"/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="width: 50px;"/>
 
 <hr>
 
@@ -41,6 +41,11 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 
 #### Version Control
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;"/>
+
+<hr>
+
+#### Mobile Application
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 50px;"/>
 
 <hr>
 
