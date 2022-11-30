@@ -2,7 +2,7 @@
 
 This is a very short intro, so I'm not going to write much.
 
-My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I also manage a YT channel that give byte-sized tutorials on programming and other concepts right <a href="https://www.youtube.com/channel/UCBPx5197X-5F-UyZ2XUmzmg">here</a>.
+My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
 
 You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>. I have projects in C/C++, Java, and Web apps till now. More to come!!
 
