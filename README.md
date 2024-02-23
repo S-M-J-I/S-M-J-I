@@ -1,17 +1,30 @@
-# Hi There !!!!
+# Hi There !!!  <img src="https://static-00.iconduck.com/assets.00/waving-hand-sign-emoji-512x512-lihf6wsv.png" width="38" height="38" />
 
-My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
 
-You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>. I have projects in C/C++, Java, and Web apps till now. More to come!!
 
-## My interests:
-- Back-end Development
-- Problem Solving
-- AI/ML (interested to work on it in the future)
+My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I can build web, mobile, and dapps and develop Deep Learning models to build expert systems. My main area of expertise lies in AI/ML and Data Science which is strongly complemented by software engineering/development.
 
+You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>.
+
+## My Interests 📍
+- AI/ML 🤖
+- Back-end Development 👨🏼‍💻
+- Problem Solving 🧩
+- Web3 🔑
+- Hackathons 🛠️
+   
+## My Achievements 🌎 <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" width="25" height="25"  /> 🏆
+- Champion of the [International Blockchain Olympiad 2023](https://www.dhakatribune.com/bangladesh/education/331505/uiu-team-world-champion-in-international)
+- 1st Runners up in the Bangladesh Blockchain Olympiad 2023
+- Champion of the UIU CSE Department Project Showcase in the Software Engineering Lab Category
+- Champion of the UIU CSE Department Project Showcase in the DMBS Lab Category
+- Champion of the UIU CSE Department Project Showcase in the Advanced OOP Lab Category
+- 1st Runners-Up of the UIU Intra-University Deep Learning Sprint
+- 1st Runners-Up of the Programming for Beginners Contest.
+   
 <br>
 
-## Technologies I know
+## Technologies I know ⚙️💻
 
 <table align="center">
   <tr>
@@ -208,7 +221,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 
 <br> 
 
-## Checkout some of my profiles:
+## Check out some of my profiles 📱 
 
 <a target="_blank" href="https://www.kaggle.com/smjishanulislam"><img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png" width="58" height="58" alt="kaggle" /></a>
 <a target="_blank" href="https://leetcode.com/S-M-J-I/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="58" height="58" alt="leetcode" /></a>
@@ -217,12 +230,12 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 
 <br>
 
-## Connect:
+## Connect with me 🌐
 <a target="_blank" href="https://www.linkedin.com/in/s-m-jishanul-islam-709b0b1a7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
 
 <br>
 
-## Github Stats:
+## Github Stats 📈
 
 [![Jishan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=S-M-J-I&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=S-M-J-I&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
