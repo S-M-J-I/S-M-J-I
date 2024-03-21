@@ -2,7 +2,7 @@
 
 
 
-My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I can build web, mobile, and dapps and develop deep learning models to build expert systems. My main area of expertise lies in AI/ML and Data Science which is strongly complemented by software engineering/development.
+My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I can build web, mobile, and dApps and develop machine/deep learning models to build expert systems. My main area of expertise lies in AI/ML and Data Science which is strongly complemented by software engineering/development.
 
 You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>.
 
