@@ -230,6 +230,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 <a target="_blank" href="https://leetcode.com/S-M-J-I/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="58" height="58" alt="leetcode" /></a>
 <a target="_blank" href="https://www.hackerrank.com/sislam201024"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" width="58" height="58" alt="hackerrank" /></a>
 <a target="_blank" href="https://codeforces.com/profile/jishanlion"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="58" height="58" alt="codeforces" /></a>
+<a target="_blank" href="https://scholar.google.com/citations?user=34HpSOsAAAAJ&hl=en"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-scholar-icon.png" width="58" height="58" alt="scholar" /></a>
 
 <br>
 
