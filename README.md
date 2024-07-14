@@ -2,7 +2,9 @@
 
 
 
-My name is S M Jishanul Islam. I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I can build web, mobile, and dApps and develop machine/deep learning models to build expert systems. My main area of expertise lies in AI/ML and Data Science which is strongly complemented by software engineering/development.
+My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh, where I am currently a Lecturer (Contractual). Primarily, I am a researcher whose main domain is multimodal deep learning. I mainly research on how we can represent and learn multimodal data to create more robust expert systems and aim to do a PhD in this field. 
+
+Besides, I can build web, mobile, and dApps and use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development.
 
 You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>.
 
