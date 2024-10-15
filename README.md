@@ -2,9 +2,9 @@
 
 
 
-My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh, where I am currently a Lecturer (Contractual). Primarily, I am a researcher whose main domain is multimodal deep learning. I mainly research on how we can represent and learn multimodal data to create more robust expert systems and aim to do a PhD in this field. 
+My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh, where I am currently a Lecturer (Contractual). I research mainly on multimodal deep learning and how we can represent and learn multimodal data to create more robust expert systems. 
 
-Besides, I can build web, mobile, and dApps and use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development.
+Besides, I can build web, mobile, and dApps utilizing the microservices architecture for my work. In addition, I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development.
 
 You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>.
 
@@ -14,6 +14,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 - Problem Solving 🧩
 - Web3 🔑
 - Hackathons 🛠️
+- Datathons 📊
    
 ## My Achievements 🌎 <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" width="25" height="25"  /> 🏆
 - Champion of the [International Blockchain Olympiad 2023](https://www.dhakatribune.com/bangladesh/education/331505/uiu-team-world-champion-in-international)
