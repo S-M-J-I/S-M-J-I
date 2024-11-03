@@ -2,7 +2,7 @@
 
 
 
-My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh, where I am currently a Lecturer (Contractual). I research mainly on multimodal deep learning and how we can represent and learn multimodal data to create more robust expert systems. 
+My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I also worked as a Lecturer (Contractual) at the same university. I research mainly on multimodal deep learning and how we can represent and learn multimodal data to create more robust expert systems. 
 
 Besides, I can build web, mobile, and dApps utilizing the microservices architecture for my work. In addition, I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development.
 
