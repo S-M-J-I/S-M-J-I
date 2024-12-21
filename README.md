@@ -129,9 +129,9 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
       </a>
-      <br>Flask
+      <br>FastAPI
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
