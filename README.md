@@ -31,22 +31,10 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 
 ## Technologies I know ⚙️💻
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=5)](https://skillicons.dev)
+| Languages                                                                                              | Development | Databases | Machine Learning & Research | DevOps |
+|--------------------------------------------------------------------------------------------------------|-------------|-----------------------------|--------|--------|
+| [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=3)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,spring,fastapi,maven,firebase&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,latex&perline=4)](https://skillicons.dev) <img style="width: 48px; height: 48px; display: inline" src='https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg'>  | [![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,git,github,docker&perline=3)](https://skillicons.dev) |
 
-### Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,spring,fastapi,maven,firebase&perline=5)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=5)](https://skillicons.dev)
-
-### Machine Learning & Research
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,latex&perline=5)](https://skillicons.dev) <a href="#macropower-tech">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="48" height="48" alt="MySQL" />
-</a>
-
-### DevOps
-[![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,git,github,docker&perline=5)](https://skillicons.dev)
 
 <br> 
 
