@@ -4,7 +4,7 @@
 
 My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I am currently a Software Engineer at <a href="https://apurba.com.bd/" target="_blank">Apurba Technologies Ltd.</a>. I also worked as a Lecturer (Contractual) at United International University, having a blend of both the industry and academia. I research mainly on multimodal deep learning and how we can represent and learn multimodal data to create more robust expert systems. 
 
-Besides, I can build web, mobile, and dApps utilizing the microservices architecture for my work. In addition, I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development.
+I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development. I can also build web, mobile, and dApps.
 
 You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>.
 
@@ -33,7 +33,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 
 | Languages                                                                                              | Development | Databases | Machine Learning & Research | DevOps |
 |--------------------------------------------------------------------------------------------------------|-------------|-----------------------------|--------|--------|
-| [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=3)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,spring,fastapi,solidity&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,latex&perline=4)](https://skillicons.dev) <img style="width: 48px; height: 48px; display: inline" src='https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg'>  | [![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,git,github,docker&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=3)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,spring,fastapi,solidity&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,latex&perline=4)](https://skillicons.dev) <img style="width: 48px; height: 48px; display: inline" src='https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg'>  | [![My Skills](https://skillicons.dev/icons?i=bash,git,docker&perline=3)](https://skillicons.dev) |
 
 
 <br> 
