@@ -18,8 +18,9 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
    
 ## My Achievements 🌎 <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" width="25" height="25"  /> 🏆
 - Champion of the [International Blockchain Olympiad 2023](https://www.dhakatribune.com/bangladesh/education/331505/uiu-team-world-champion-in-international)
-- 1st Runners up in the Bangladesh Blockchain Olympiad 2023
+- Winner of the Harvard Health Systems Innovation Lab (HSIL) hackathon 2025 (Dhaka Hub)
 - Champion of [ভাষামূল: মুখের ভাষার খোঁজে](https://www.kaggle.com/competitions/regipa/overview), a national NLP challenge on Bengali regional text to IPA
+- 1st Runners-up in the Bangladesh Blockchain Olympiad 2023
 - Champion of the UIU CSE Department Project Showcase in the Software Engineering Lab Category
 - Champion of the UIU CSE Department Project Showcase in the DMBS Lab Category
 - Champion of the UIU CSE Department Project Showcase in the Advanced OOP Lab Category
