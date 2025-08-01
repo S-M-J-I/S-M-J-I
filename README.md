@@ -31,7 +31,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
    
 
 ## 📝 Research
-- ChimeraBreak and SVMA (Long paper, SVU Workshop @ **ICCV 2025** - will be included with the proceedings)
+- ChimeraBreak and SVMA (Long paper, SVU Workshop @ **ICCV 2025**) | [[Paper](https://arxiv.org/abs/2507.11968)] [[Code](https://github.com/S-M-J-I/ChimeraBreak)]
 - MIMIC (MusIML Workshop, **NeurIPS 2024**) | [[Paper](https://arxiv.org/abs/2412.00681)], [[Code](https://github.com/faiyazabdullah/MIMIC)]
 - An audio-video based multi-modal fusion approach for emotion recognition (under review **Knowledge-Based Systems**, I.F 7.6)
 - E-MedViTR (ICEEICT 2024) | [[Paper](https://ieeexplore.ieee.org/abstract/document/10534573/)]
