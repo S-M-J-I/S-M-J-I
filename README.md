@@ -2,9 +2,9 @@
 
 
 
-My name is S M Jishanul Islam. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I am currently a Software Engineer at <a href="https://apurba.com.bd/" target="_blank">Apurba Technologies Ltd.</a>. I also worked as a Lecturer (Contractual) at United International University, combining industry and academic experience. I primarily research multimodal deep learning, focusing on how to represent and learn from multimodal data to create more robust expert systems. 
+My name is S M Jishanul Islam. I am currently an AI Engineer at pipikwan pêhtâkwan, and previously a SWE(L-1) at <a href="https://apurba.com.bd/" target="_blank">Apurba Technologies Ltd.</a>. I also worked as a Lecturer (Contractual) at United International University, combining industry and academic experience. I primarily research multimodal deep learning, focusing on how to represent and learn from multimodal data to create more robust expert systems. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
 
-I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development. I can also build web, mobile, and dApps.
+Currently building multi-modal LLMs and LLMs for various use cases and privacy/security. I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development. I can also build web, mobile, and dApps.
 
 You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos</a>.
 
