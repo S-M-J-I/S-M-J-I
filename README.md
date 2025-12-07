@@ -37,6 +37,7 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
 - E-MedViTR (ICEEICT 2024) | [[Paper](https://ieeexplore.ieee.org/abstract/document/10534573/)]
 - IPBlocks: (TENCON 2025) | [[Paper]()] [[Code - Blockchain](https://github.com/S-M-J-I/ipblocks-blockchain) | [Code - Client](https://github.com/S-M-J-I/ipblocks-client)]
 - DGT: Dialect Guided Tokens (Early competition work - Champion place) | [[Paper](https://arxiv.org/abs/2403.17407)], [[Code](https://github.com/S-M-J-I/bhashammo-dgt-regional-bengail-2-ipa)]
+- PurnoGemma (IEEE BigData 2025 Industry Track) | [Paper - out soon()] [Code - proprietary]
 
 ## Technologies I know ⚙️💻
 
