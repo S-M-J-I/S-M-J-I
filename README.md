@@ -31,13 +31,14 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
    
 
 ## 📝 Research
-- ChimeraBreak and SVMA (Long paper, SVU Workshop @ **ICCV 2025**) | [[Paper](https://arxiv.org/abs/2507.11968)] [[Code](https://github.com/S-M-J-I/ChimeraBreak)]
-- MIMIC (MusIML Workshop, **NeurIPS 2024**) | [[Paper](https://arxiv.org/abs/2412.00681)], [[Code](https://github.com/faiyazabdullah/MIMIC)]
-- An audio-video based multi-modal fusion approach for emotion recognition (under review **Knowledge-Based Systems**, I.F 7.6)
-- E-MedViTR (ICEEICT 2024) | [[Paper](https://ieeexplore.ieee.org/abstract/document/10534573/)]
-- IPBlocks: (TENCON 2025) | [[Paper]()] [[Code - Blockchain](https://github.com/S-M-J-I/ipblocks-blockchain) | [Code - Client](https://github.com/S-M-J-I/ipblocks-client)]
-- DGT: Dialect Guided Tokens (Early competition work - Champion place) | [[Paper](https://arxiv.org/abs/2403.17407)], [[Code](https://github.com/S-M-J-I/bhashammo-dgt-regional-bengail-2-ipa)]
+- Bornorishti (EACL 2026 Industry Track) | [Paper - out soon()] [Code - proprietary]
 - PurnoGemma (IEEE BigData 2025 Industry Track) | [Paper - out soon()] [Code - proprietary]
+- ChimeraBreak and SVMA (Long paper, SVU Workshop @ **ICCV 2025**) | [[Paper](https://arxiv.org/abs/2507.11968)] [[Code](https://github.com/S-M-J-I/ChimeraBreak)]
+- IPBlocks (TENCON 2025) | [[Paper](https://www.researchgate.net/publication/394526255_IPBlocks_A_Blockchain_Ecosystem_for_Secure_IP_Registration_and_Decentralized_Marketplace)] [[Code - Blockchain](https://github.com/S-M-J-I/ipblocks-blockchain) | [Code - Client](https://github.com/S-M-J-I/ipblocks-client)]
+- MIMIC (MusIML Workshop, **NeurIPS 2024**) | [[Paper](https://arxiv.org/abs/2412.00681)], [[Code](https://github.com/faiyazabdullah/MIMIC)]
+- An audio-video based multi-modal fusion approach for emotion recognition (under review **Knowledge-Based Systems**, IF 7.6)
+- E-MedViTR (ICEEICT 2024) | [[Paper](https://ieeexplore.ieee.org/abstract/document/10534573/)]
+- DGT: Dialect Guided Tokens (Early competition work - Champion place) | [[Paper](https://arxiv.org/abs/2403.17407)], [[Code](https://github.com/S-M-J-I/bhashammo-dgt-regional-bengail-2-ipa)]
 
 ## Technologies I know ⚙️💻
 
