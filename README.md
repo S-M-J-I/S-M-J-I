@@ -31,9 +31,9 @@ You can check out my <a href="https://github.com/S-M-J-I?tab=repositories">repos
    
 
 ## 📝 Research
-- Bornorishti (EACL 2026 Industry Track) | [Paper - out soon()] | [Code - proprietary] | [[Demo](https://kagoj.ai/)]
+- Bornorishti (EACL 2026 Industry Track) | [[Paper](https://aclanthology.org/2026.eacl-industry.20/)] | [Code - proprietary] | [[Demo](https://kagoj.ai/)]
 - PurnoGemma (IEEE BigData 2025) | [[Paper](https://www.computer.org/csdl/proceedings-article/bigdata/2025/11402260/2eDsnvFhnrO)] | [Code - proprietary] | [[Demo](https://kagoj.ai/)]
-- ChimeraBreak and SVMA (Long paper, SVU Workshop @ **ICCV 2025**) | [[Paper](https://arxiv.org/abs/2507.11968)] [[Code](https://github.com/S-M-J-I/ChimeraBreak)]
+- ChimeraBreak and SVMA (Long paper, SVU Workshop @ **ICCV 2025**) | [[Paper](https://arxiv.org/abs/2507.11968)] | [[Code](https://github.com/S-M-J-I/ChimeraBreak)]
 - IPBlocks (TENCON 2025) | [[Paper](https://ieeexplore.ieee.org/document/11374961)] | [[Code - Blockchain](https://github.com/S-M-J-I/ipblocks-blockchain) | [Code - Client](https://github.com/S-M-J-I/ipblocks-client)]
 - MIMIC (MusIML Workshop, **NeurIPS 2024**) | [[Paper](https://arxiv.org/abs/2412.00681)] | [[Code](https://github.com/faiyazabdullah/MIMIC)]
 - An audio-video based multi-modal fusion approach for emotion recognition (**Knowledge-Based Systems**, Q1--IF 7.6) | [[Paper - out soon()]] | [[Code](https://github.com/S-M-J-I/Multimodal-SER)]
