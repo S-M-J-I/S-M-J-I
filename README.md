@@ -2,7 +2,7 @@
 
 
 
-My name is S M Jishanul Islam. I am currently a Master's student at Dalhousie University. I served as a Part-Time Faculty at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I previously worked as an SWE (L-1) at <a href="https://apurba.com.bd/" target="_blank">Apurba Technologies Ltd.</a> and as an instructor at United International University, combining industry and academic experience. I primarily research multimodal deep learning, focusing on how to represent and learn from multimodal data to create more robust expert systems. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
+My name is S M Jishanul Islam. I am currently a Master in Computer Science student at <a href='https://www.dal.ca' target="blank">Dalhousie University</a>. I served as a Part-Time Faculty at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. I previously worked as an SWE (L-1) at <a href="https://apurba.com.bd/" target="_blank">Apurba Technologies Ltd.</a> and as an instructor at United International University, combining industry and academic experience. I primarily research on finding how AI can benefit from hierarchical and multimodal learning combined. I'm a CSE graduate from <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
 
 Currently building multi-modal LLMs and LLMs for various use cases and privacy/security. I can use machine/deep learning models to build expert systems. My AI/ML expertise is strongly complemented by software engineering/development. I can also build web, mobile, and dApps.
 
